@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://webservice.correios.com.br/service/rastro/Rastro.wsdl" uri="xml-resources/web-service-references/Rastro/wsdl/webservice.correios.com.br/service/rastro/Rastro.wsdl"/>
+    <system systemId="http://webservice.correios.com.br/service/rastro/Rastro_schema1.xsd" uri="xml-resources/web-service-references/Rastro/wsdl/webservice.correios.com.br/service/rastro/Rastro_schema1.xsd"/>
+    <system systemId="http://ws.cdyne.com/ip2geo/ip2geo.asmx?wsdl" uri="xml-resources/web-service-references/ip2geo/wsdl/ws.cdyne.com/ip2geo/ip2geo.asmx.wsdl"/>
+</catalog>
